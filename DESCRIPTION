@@ -1,0 +1,10 @@
+Package: ConfidenceBandsEnchanced
+Type: Package
+Title: A number of implementations of confidence intervals in R using S4, S5, R6 approach.
+Version: 0.37.0
+Author: Oleksii Haevskyi
+Maintainer:  Oleksii Haevskyi <aleksi.eesti@gmail.com>
+Description: A number of implementations of confidence intervals in R using S4, S5, R6 approach.
+License: BSD
+Encoding: UTF-8
+LazyData: true

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: ConfidenceBandsEnchanced\nType: Package\nTitle: A number of implementations of confidence intervals in R using S4, S5, R6 approach.\nVersion: 0.37.0\nAuthor: Oleksii Haevskyi\nMaintainer:  Oleksii Haevskyi <aleksi.eesti@gmail.com>\nDescription: A number of implementations of confidence intervals in R using S4, S5, R6 approach.\nLicense: BSD\nEncoding: UTF-8\nLazyData: true\n",
+    "created" : 1506896128506.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3200999075",
+    "id" : "247B2110",
+    "lastKnownWriteTime" : 1506896195,
+    "last_content_update" : 1506896195430,
+    "path" : "C:/Dropbox/Github/ConfidenceBandsEnchanced/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
